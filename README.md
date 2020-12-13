@@ -2,6 +2,8 @@
 
 A dream theme for [Brackets](http://brackets.io/) that simulates PHP coloring scheme of Dreamweaver.
 
+(Updated 14-12-2020)
+
 # Installation
 
 You may download and install this extension in one of three ways. Using Extension Manager to find it through the extension registry you always find the latest stable release conveniently within Brackets.
