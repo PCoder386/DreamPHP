@@ -10,7 +10,7 @@ You may download and install this extension in one of three ways. Using Extensio
 
 ### Install using Extension Manager
 
-- Open the the **Extension Manager** from the **File** menu.
+- Open the **Extension Manager** from the **File** menu.
 - Click the **Themes** tab.
 - Find "Dream PHP" in list of extensions (use the search field to filter the list).
 - Click **Install**.
